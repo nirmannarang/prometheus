@@ -24,7 +24,7 @@ import (
 
 	"github.com/prometheus/common/model"
 
-	"github.com/prometheus/prometheus/storage/metric"
+	"github.com/nirmannarang/prometheus/storage/metric"
 )
 
 // ChunkLen is the length of a chunk in bytes.

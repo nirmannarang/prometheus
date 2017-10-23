@@ -23,7 +23,7 @@ import (
 
 	"github.com/prometheus/common/model"
 
-	"github.com/prometheus/prometheus/storage/metric"
+	"github.com/nirmannarang/prometheus/storage/metric"
 )
 
 var testExpr = []struct {

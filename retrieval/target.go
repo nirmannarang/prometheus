@@ -24,9 +24,9 @@ import (
 
 	"github.com/prometheus/common/model"
 
-	"github.com/prometheus/prometheus/config"
-	"github.com/prometheus/prometheus/relabel"
-	"github.com/prometheus/prometheus/storage"
+	"github.com/nirmannarang/prometheus/config"
+	"github.com/nirmannarang/prometheus/relabel"
+	"github.com/nirmannarang/prometheus/storage"
 )
 
 // TargetHealth describes the health state of a target.

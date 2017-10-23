@@ -17,7 +17,7 @@ import (
 	"sort"
 
 	"github.com/prometheus/common/model"
-	"github.com/prometheus/prometheus/storage/metric"
+	"github.com/nirmannarang/prometheus/storage/metric"
 )
 
 // This is a struct and not just a renamed type because otherwise the Metric

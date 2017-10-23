@@ -28,7 +28,7 @@ import (
 	"gopkg.in/fsnotify.v1"
 	"gopkg.in/yaml.v2"
 
-	"github.com/prometheus/prometheus/config"
+	"github.com/nirmannarang/prometheus/config"
 )
 
 const fileSDFilepathLabel = model.MetaLabelPrefix + "filepath"

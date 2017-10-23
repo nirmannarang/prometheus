@@ -24,8 +24,8 @@ import (
 	"github.com/prometheus/common/log"
 	"github.com/prometheus/common/model"
 
-	"github.com/prometheus/prometheus/promql"
-	"github.com/prometheus/prometheus/storage/metric"
+	"github.com/nirmannarang/prometheus/promql"
+	"github.com/nirmannarang/prometheus/storage/metric"
 )
 
 var (

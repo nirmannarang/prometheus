@@ -19,8 +19,8 @@ import (
 	"github.com/prometheus/common/model"
 	"golang.org/x/net/context"
 
-	"github.com/prometheus/prometheus/storage"
-	"github.com/prometheus/prometheus/storage/metric"
+	"github.com/nirmannarang/prometheus/storage"
+	"github.com/nirmannarang/prometheus/storage/metric"
 )
 
 // Storage ingests and manages samples, along with various indexes. All methods

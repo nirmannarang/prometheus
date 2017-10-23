@@ -18,8 +18,8 @@ import (
 	"os"
 
 	"github.com/prometheus/common/version"
-	"github.com/prometheus/prometheus/storage/local"
-	"github.com/prometheus/prometheus/util/cli"
+	"github.com/nirmannarang/prometheus/storage/local"
+	"github.com/nirmannarang/prometheus/util/cli"
 )
 
 // DumpHeadsCmd dumps metadata of a heads.db file.

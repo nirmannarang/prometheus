@@ -25,9 +25,9 @@ import (
 	"github.com/prometheus/common/model"
 	"golang.org/x/net/context"
 
-	"github.com/prometheus/prometheus/storage"
-	"github.com/prometheus/prometheus/storage/local"
-	"github.com/prometheus/prometheus/util/testutil"
+	"github.com/nirmannarang/prometheus/storage"
+	"github.com/nirmannarang/prometheus/storage/local"
+	"github.com/nirmannarang/prometheus/util/testutil"
 )
 
 var (

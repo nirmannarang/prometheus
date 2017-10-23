@@ -33,10 +33,10 @@ import (
 	"github.com/prometheus/common/log"
 	"github.com/prometheus/common/model"
 
-	"github.com/prometheus/prometheus/storage/local/chunk"
-	"github.com/prometheus/prometheus/storage/local/codable"
-	"github.com/prometheus/prometheus/storage/local/index"
-	"github.com/prometheus/prometheus/util/flock"
+	"github.com/nirmannarang/prometheus/storage/local/chunk"
+	"github.com/nirmannarang/prometheus/storage/local/codable"
+	"github.com/nirmannarang/prometheus/storage/local/index"
+	"github.com/nirmannarang/prometheus/util/flock"
 )
 
 const (

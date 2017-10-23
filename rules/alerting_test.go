@@ -17,7 +17,7 @@ import (
 	"testing"
 
 	"github.com/prometheus/common/model"
-	"github.com/prometheus/prometheus/promql"
+	"github.com/nirmannarang/prometheus/promql"
 )
 
 func TestAlertingRuleHTMLSnippet(t *testing.T) {

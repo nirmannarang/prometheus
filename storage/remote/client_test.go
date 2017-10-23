@@ -24,7 +24,7 @@ import (
 	"time"
 
 	"github.com/prometheus/common/model"
-	"github.com/prometheus/prometheus/config"
+	"github.com/nirmannarang/prometheus/config"
 )
 
 var longErrMessage = strings.Repeat("error message", maxErrMsgLen)

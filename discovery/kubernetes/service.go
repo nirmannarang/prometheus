@@ -20,8 +20,8 @@ import (
 
 	"github.com/prometheus/common/log"
 	"github.com/prometheus/common/model"
-	"github.com/prometheus/prometheus/config"
-	"github.com/prometheus/prometheus/util/strutil"
+	"github.com/nirmannarang/prometheus/config"
+	"github.com/nirmannarang/prometheus/util/strutil"
 	"golang.org/x/net/context"
 	apiv1 "k8s.io/client-go/pkg/api/v1"
 	"k8s.io/client-go/tools/cache"

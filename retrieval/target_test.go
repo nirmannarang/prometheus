@@ -28,8 +28,8 @@ import (
 
 	"github.com/prometheus/common/model"
 
-	"github.com/prometheus/prometheus/config"
-	"github.com/prometheus/prometheus/util/httputil"
+	"github.com/nirmannarang/prometheus/config"
+	"github.com/nirmannarang/prometheus/util/httputil"
 )
 
 const (

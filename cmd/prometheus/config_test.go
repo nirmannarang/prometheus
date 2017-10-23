@@ -16,7 +16,7 @@ package main
 import (
 	"testing"
 
-	"github.com/prometheus/prometheus/config"
+	"github.com/nirmannarang/prometheus/config"
 )
 
 func TestParse(t *testing.T) {

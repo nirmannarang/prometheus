@@ -21,7 +21,7 @@ import (
 
 	"github.com/prometheus/common/model"
 
-	"github.com/prometheus/prometheus/storage/metric"
+	"github.com/nirmannarang/prometheus/storage/metric"
 )
 
 // Tree returns a string of the tree structure of the given node.

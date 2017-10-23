@@ -28,8 +28,8 @@ import (
 	"golang.org/x/oauth2"
 	"golang.org/x/oauth2/google"
 
-	"github.com/prometheus/prometheus/config"
-	"github.com/prometheus/prometheus/util/strutil"
+	"github.com/nirmannarang/prometheus/config"
+	"github.com/nirmannarang/prometheus/util/strutil"
 )
 
 const (

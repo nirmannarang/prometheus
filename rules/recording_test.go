@@ -20,8 +20,8 @@ import (
 	"github.com/prometheus/common/model"
 	"golang.org/x/net/context"
 
-	"github.com/prometheus/prometheus/promql"
-	"github.com/prometheus/prometheus/storage/local"
+	"github.com/nirmannarang/prometheus/promql"
+	"github.com/nirmannarang/prometheus/storage/local"
 )
 
 func TestRuleEval(t *testing.T) {

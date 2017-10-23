@@ -28,12 +28,12 @@ import (
 	"github.com/prometheus/common/model"
 	"golang.org/x/net/context"
 
-	"github.com/prometheus/prometheus/config"
-	"github.com/prometheus/prometheus/notifier"
-	"github.com/prometheus/prometheus/promql"
-	"github.com/prometheus/prometheus/storage"
-	"github.com/prometheus/prometheus/storage/local"
-	"github.com/prometheus/prometheus/util/strutil"
+	"github.com/nirmannarang/prometheus/config"
+	"github.com/nirmannarang/prometheus/notifier"
+	"github.com/nirmannarang/prometheus/promql"
+	"github.com/nirmannarang/prometheus/storage"
+	"github.com/nirmannarang/prometheus/storage/local"
+	"github.com/nirmannarang/prometheus/util/strutil"
 )
 
 // Constants for instrumentation.

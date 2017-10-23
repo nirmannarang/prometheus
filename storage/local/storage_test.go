@@ -30,9 +30,9 @@ import (
 	"github.com/prometheus/common/model"
 	"golang.org/x/net/context"
 
-	"github.com/prometheus/prometheus/storage/local/chunk"
-	"github.com/prometheus/prometheus/storage/metric"
-	"github.com/prometheus/prometheus/util/testutil"
+	"github.com/nirmannarang/prometheus/storage/local/chunk"
+	"github.com/nirmannarang/prometheus/storage/metric"
+	"github.com/nirmannarang/prometheus/util/testutil"
 )
 
 func TestMatches(t *testing.T) {

@@ -22,8 +22,8 @@ import (
 	"time"
 
 	"github.com/prometheus/common/model"
-	"github.com/prometheus/prometheus/storage/local/chunk"
-	"github.com/prometheus/prometheus/util/testutil"
+	"github.com/nirmannarang/prometheus/storage/local/chunk"
+	"github.com/nirmannarang/prometheus/util/testutil"
 )
 
 type testStorageCloser struct {

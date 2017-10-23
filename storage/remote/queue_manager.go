@@ -23,8 +23,8 @@ import (
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/common/log"
 	"github.com/prometheus/common/model"
-	"github.com/prometheus/prometheus/config"
-	"github.com/prometheus/prometheus/relabel"
+	"github.com/nirmannarang/prometheus/config"
+	"github.com/nirmannarang/prometheus/relabel"
 )
 
 // String constants for instrumentation.

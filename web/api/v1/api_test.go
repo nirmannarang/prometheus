@@ -29,8 +29,8 @@ import (
 	"github.com/prometheus/common/route"
 	"golang.org/x/net/context"
 
-	"github.com/prometheus/prometheus/promql"
-	"github.com/prometheus/prometheus/retrieval"
+	"github.com/nirmannarang/prometheus/promql"
+	"github.com/nirmannarang/prometheus/retrieval"
 )
 
 type targetRetrieverFunc func() []*retrieval.Target

@@ -29,11 +29,11 @@ import (
 	"github.com/prometheus/common/route"
 	"golang.org/x/net/context"
 
-	"github.com/prometheus/prometheus/promql"
-	"github.com/prometheus/prometheus/retrieval"
-	"github.com/prometheus/prometheus/storage/local"
-	"github.com/prometheus/prometheus/storage/metric"
-	"github.com/prometheus/prometheus/util/httputil"
+	"github.com/nirmannarang/prometheus/promql"
+	"github.com/nirmannarang/prometheus/retrieval"
+	"github.com/nirmannarang/prometheus/storage/local"
+	"github.com/nirmannarang/prometheus/storage/metric"
+	"github.com/nirmannarang/prometheus/util/httputil"
 )
 
 type status string

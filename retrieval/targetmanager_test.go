@@ -18,7 +18,7 @@ import (
 	"testing"
 
 	"github.com/prometheus/common/model"
-	"github.com/prometheus/prometheus/config"
+	"github.com/nirmannarang/prometheus/config"
 )
 
 func mustNewRegexp(s string) config.Regexp {

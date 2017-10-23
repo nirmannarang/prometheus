@@ -23,8 +23,8 @@ import (
 
 	"github.com/prometheus/common/model"
 
-	"github.com/prometheus/prometheus/storage/local/chunk"
-	"github.com/prometheus/prometheus/storage/local/codable"
+	"github.com/nirmannarang/prometheus/storage/local/chunk"
+	"github.com/nirmannarang/prometheus/storage/local/codable"
 )
 
 const (

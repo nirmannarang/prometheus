@@ -25,9 +25,9 @@ import (
 	"github.com/prometheus/common/log"
 	"github.com/prometheus/common/model"
 
-	"github.com/prometheus/prometheus/storage/local/chunk"
-	"github.com/prometheus/prometheus/storage/local/codable"
-	"github.com/prometheus/prometheus/storage/local/index"
+	"github.com/nirmannarang/prometheus/storage/local/chunk"
+	"github.com/nirmannarang/prometheus/storage/local/codable"
+	"github.com/nirmannarang/prometheus/storage/local/index"
 )
 
 // recoverFromCrash is called by loadSeriesMapAndHeads if the persistence

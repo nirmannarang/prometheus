@@ -28,8 +28,8 @@ import (
 	"github.com/prometheus/common/model"
 	"golang.org/x/net/context"
 
-	"github.com/prometheus/prometheus/config"
-	"github.com/prometheus/prometheus/storage"
+	"github.com/nirmannarang/prometheus/config"
+	"github.com/nirmannarang/prometheus/storage"
 )
 
 func TestNewScrapePool(t *testing.T) {

@@ -23,8 +23,8 @@ import (
 	"github.com/prometheus/common/log"
 	"github.com/prometheus/common/model"
 
-	"github.com/prometheus/prometheus/storage/metric"
-	"github.com/prometheus/prometheus/util/strutil"
+	"github.com/nirmannarang/prometheus/storage/metric"
+	"github.com/nirmannarang/prometheus/util/strutil"
 )
 
 type parser struct {

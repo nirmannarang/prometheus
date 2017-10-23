@@ -18,7 +18,7 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/prometheus/prometheus/config"
+	"github.com/nirmannarang/prometheus/config"
 
 	"github.com/prometheus/common/log"
 	"github.com/prometheus/common/model"

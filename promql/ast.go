@@ -19,8 +19,8 @@ import (
 
 	"github.com/prometheus/common/model"
 
-	"github.com/prometheus/prometheus/storage/local"
-	"github.com/prometheus/prometheus/storage/metric"
+	"github.com/nirmannarang/prometheus/storage/local"
+	"github.com/nirmannarang/prometheus/storage/metric"
 )
 
 // Node is a generic interface for all nodes in an AST.

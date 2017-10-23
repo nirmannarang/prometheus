@@ -29,16 +29,16 @@ import (
 	"github.com/prometheus/common/version"
 	"golang.org/x/net/context"
 
-	"github.com/prometheus/prometheus/config"
-	"github.com/prometheus/prometheus/notifier"
-	"github.com/prometheus/prometheus/promql"
-	"github.com/prometheus/prometheus/retrieval"
-	"github.com/prometheus/prometheus/rules"
-	"github.com/prometheus/prometheus/storage"
-	"github.com/prometheus/prometheus/storage/fanin"
-	"github.com/prometheus/prometheus/storage/local"
-	"github.com/prometheus/prometheus/storage/remote"
-	"github.com/prometheus/prometheus/web"
+	"github.com/nirmannarang/prometheus/config"
+	"github.com/nirmannarang/prometheus/notifier"
+	"github.com/nirmannarang/prometheus/promql"
+	"github.com/nirmannarang/prometheus/retrieval"
+	"github.com/nirmannarang/prometheus/rules"
+	"github.com/nirmannarang/prometheus/storage"
+	"github.com/nirmannarang/prometheus/storage/fanin"
+	"github.com/nirmannarang/prometheus/storage/local"
+	"github.com/nirmannarang/prometheus/storage/remote"
+	"github.com/nirmannarang/prometheus/web"
 )
 
 func main() {

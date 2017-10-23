@@ -26,9 +26,9 @@ import (
 	"github.com/prometheus/common/log"
 	"github.com/prometheus/common/model"
 
-	"github.com/prometheus/prometheus/promql"
-	"github.com/prometheus/prometheus/template"
-	"github.com/prometheus/prometheus/util/strutil"
+	"github.com/nirmannarang/prometheus/promql"
+	"github.com/nirmannarang/prometheus/template"
+	"github.com/nirmannarang/prometheus/util/strutil"
 )
 
 const (

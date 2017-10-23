@@ -21,10 +21,10 @@ import (
 	"strings"
 
 	"github.com/prometheus/common/version"
-	"github.com/prometheus/prometheus/config"
-	"github.com/prometheus/prometheus/promql"
-	"github.com/prometheus/prometheus/util/cli"
-	"github.com/prometheus/prometheus/util/promlint"
+	"github.com/nirmannarang/prometheus/config"
+	"github.com/nirmannarang/prometheus/promql"
+	"github.com/nirmannarang/prometheus/util/cli"
+	"github.com/nirmannarang/prometheus/util/promlint"
 )
 
 // CheckConfigCmd validates configuration files.

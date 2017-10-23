@@ -22,9 +22,9 @@ import (
 	"github.com/prometheus/common/model"
 	"golang.org/x/net/context"
 
-	"github.com/prometheus/prometheus/storage/local"
-	"github.com/prometheus/prometheus/storage/metric"
-	"github.com/prometheus/prometheus/storage/remote"
+	"github.com/nirmannarang/prometheus/storage/local"
+	"github.com/nirmannarang/prometheus/storage/metric"
+	"github.com/nirmannarang/prometheus/storage/remote"
 )
 
 type testQuerier struct {

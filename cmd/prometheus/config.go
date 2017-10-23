@@ -29,13 +29,13 @@ import (
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/common/log"
 	"github.com/prometheus/common/model"
-	"github.com/prometheus/prometheus/config"
-	"github.com/prometheus/prometheus/notifier"
-	"github.com/prometheus/prometheus/promql"
-	"github.com/prometheus/prometheus/storage/local"
-	"github.com/prometheus/prometheus/storage/local/chunk"
-	"github.com/prometheus/prometheus/storage/local/index"
-	"github.com/prometheus/prometheus/web"
+	"github.com/nirmannarang/prometheus/config"
+	"github.com/nirmannarang/prometheus/notifier"
+	"github.com/nirmannarang/prometheus/promql"
+	"github.com/nirmannarang/prometheus/storage/local"
+	"github.com/nirmannarang/prometheus/storage/local/chunk"
+	"github.com/nirmannarang/prometheus/storage/local/index"
+	"github.com/nirmannarang/prometheus/web"
 )
 
 // cfg contains immutable configuration parameters for a running Prometheus

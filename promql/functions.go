@@ -22,7 +22,7 @@ import (
 
 	"github.com/prometheus/common/model"
 
-	"github.com/prometheus/prometheus/storage/metric"
+	"github.com/nirmannarang/prometheus/storage/metric"
 )
 
 // Function represents a function of the expression language and is

@@ -22,7 +22,7 @@ import (
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/common/log"
 	"github.com/prometheus/common/model"
-	"github.com/prometheus/prometheus/storage/remote"
+	"github.com/nirmannarang/prometheus/storage/remote"
 
 	influx "github.com/influxdata/influxdb/client/v2"
 )

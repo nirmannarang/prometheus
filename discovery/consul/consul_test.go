@@ -17,7 +17,7 @@ import (
 	"testing"
 
 	"github.com/prometheus/common/log"
-	"github.com/prometheus/prometheus/config"
+	"github.com/nirmannarang/prometheus/config"
 )
 
 func TestConfiguredService(t *testing.T) {

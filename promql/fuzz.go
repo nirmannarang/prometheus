@@ -22,7 +22,7 @@ package promql
 // Fuzz each parser by building appropriately instrumented parser, ex.
 // FuzzParseMetric and execute it with it's
 //
-//     go-fuzz-build -func FuzzParseMetric -o FuzzParseMetric.zip github.com/prometheus/prometheus/promql
+//     go-fuzz-build -func FuzzParseMetric -o FuzzParseMetric.zip github.com/nirmannarang/prometheus/promql
 //
 // And then run the tests with the appropriate inputs
 //

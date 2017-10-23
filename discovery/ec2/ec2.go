@@ -28,8 +28,8 @@ import (
 	"golang.org/x/net/context"
 
 	"github.com/aws/aws-sdk-go/service/ec2"
-	"github.com/prometheus/prometheus/config"
-	"github.com/prometheus/prometheus/util/strutil"
+	"github.com/nirmannarang/prometheus/config"
+	"github.com/nirmannarang/prometheus/util/strutil"
 )
 
 const (

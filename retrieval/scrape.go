@@ -28,10 +28,10 @@ import (
 	"golang.org/x/net/context"
 	"golang.org/x/net/context/ctxhttp"
 
-	"github.com/prometheus/prometheus/config"
-	"github.com/prometheus/prometheus/storage"
-	"github.com/prometheus/prometheus/storage/local"
-	"github.com/prometheus/prometheus/util/httputil"
+	"github.com/nirmannarang/prometheus/config"
+	"github.com/nirmannarang/prometheus/storage"
+	"github.com/nirmannarang/prometheus/storage/local"
+	"github.com/nirmannarang/prometheus/util/httputil"
 )
 
 const (

@@ -24,7 +24,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/prometheus/prometheus/config"
+	"github.com/nirmannarang/prometheus/config"
 )
 
 // NewClient returns a http.Client using the specified http.RoundTripper.

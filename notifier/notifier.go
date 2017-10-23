@@ -32,10 +32,10 @@ import (
 	"golang.org/x/net/context"
 	"golang.org/x/net/context/ctxhttp"
 
-	"github.com/prometheus/prometheus/config"
-	"github.com/prometheus/prometheus/discovery"
-	"github.com/prometheus/prometheus/relabel"
-	"github.com/prometheus/prometheus/util/httputil"
+	"github.com/nirmannarang/prometheus/config"
+	"github.com/nirmannarang/prometheus/discovery"
+	"github.com/nirmannarang/prometheus/relabel"
+	"github.com/nirmannarang/prometheus/util/httputil"
 )
 
 const (

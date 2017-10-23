@@ -42,16 +42,16 @@ import (
 	"golang.org/x/net/context"
 	"golang.org/x/net/netutil"
 
-	"github.com/prometheus/prometheus/config"
-	"github.com/prometheus/prometheus/notifier"
-	"github.com/prometheus/prometheus/promql"
-	"github.com/prometheus/prometheus/retrieval"
-	"github.com/prometheus/prometheus/rules"
-	"github.com/prometheus/prometheus/storage/local"
-	"github.com/prometheus/prometheus/template"
-	"github.com/prometheus/prometheus/util/httputil"
-	api_v1 "github.com/prometheus/prometheus/web/api/v1"
-	"github.com/prometheus/prometheus/web/ui"
+	"github.com/nirmannarang/prometheus/config"
+	"github.com/nirmannarang/prometheus/notifier"
+	"github.com/nirmannarang/prometheus/promql"
+	"github.com/nirmannarang/prometheus/retrieval"
+	"github.com/nirmannarang/prometheus/rules"
+	"github.com/nirmannarang/prometheus/storage/local"
+	"github.com/nirmannarang/prometheus/template"
+	"github.com/nirmannarang/prometheus/util/httputil"
+	api_v1 "github.com/nirmannarang/prometheus/web/api/v1"
+	"github.com/nirmannarang/prometheus/web/ui"
 )
 
 var localhostRepresentations = []string{"127.0.0.1", "localhost"}

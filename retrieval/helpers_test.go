@@ -16,7 +16,7 @@ package retrieval
 import (
 	"github.com/prometheus/common/model"
 
-	"github.com/prometheus/prometheus/config"
+	"github.com/nirmannarang/prometheus/config"
 )
 
 type nopAppender struct{}

@@ -28,9 +28,9 @@ import (
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/common/log"
 	"github.com/prometheus/common/model"
-	"github.com/prometheus/prometheus/config"
-	"github.com/prometheus/prometheus/util/httputil"
-	"github.com/prometheus/prometheus/util/strutil"
+	"github.com/nirmannarang/prometheus/config"
+	"github.com/nirmannarang/prometheus/util/httputil"
+	"github.com/nirmannarang/prometheus/util/strutil"
 )
 
 const (
